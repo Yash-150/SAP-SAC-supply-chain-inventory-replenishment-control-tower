@@ -106,7 +106,7 @@ For this project, I created a simplified analytical control tower that combines 
 
 `SC_Inventory_Replenishment_Analytics`
 
-The source dataset contains **91,251 rows across 15 fields** and was designed to support analysis of inventory, demand, replenishment, supplier lead time and related operational measures.
+The source dataset contains **91,250 rows across 15 fields** and was designed to support analysis of inventory, demand, replenishment, supplier lead time and related operational measures.
 
 ### Important SAC Trial Account Note
 
@@ -116,7 +116,7 @@ However, the **2,000-record view should not be interpreted as the size of the or
 
 The original source contained:
 
-> **91,251 rows**
+> **91,250 rows**
 
 The SAC trial analysis view exposed:
 
@@ -136,7 +136,7 @@ This distinction was important because it confirmed that the complete source dat
 |---|---|
 | Dataset Name | `SC_Inventory_Replenishment_Analytics` |
 | Source | Supply-chain CSV |
-| Original Source Rows | **91,251** |
+| Original Source Rows | **91,250** |
 | SAC Interactive Analysis View | **2,000 records** |
 | Fields | **15** |
 | Full Dataset Validation | **Passed** |
