@@ -16,13 +16,8 @@
 
 ## 📊 Dashboard Preview
 
-<p align="center">
-  <a href="assets/screenshots/09-final-dashboard.png">
-    <img src="assets/screenshots/09-final-dashboard.png"
-         alt="SAP Analytics Cloud Supply Chain Inventory and Replenishment Control Tower Dashboard"
-         width="100%">
-  </a>
-</p>
+<img width="1919" height="1012" alt="step_13" src="https://github.com/user-attachments/assets/09a10089-cbc5-4dd9-b882-10452620606c" />
+
 
 <p align="center">
   <b>Supply Chain Inventory & Replenishment Control Tower</b><br>
